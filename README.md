@@ -6,7 +6,7 @@
 
 The Jupyter notebook folder contains the Jupyter notebook file which documents in detail how to use the code.
 
-The source code folder contains all Python files and functions necessary to edit and mask images.
+The source code folder contains all Python files necessary to edit and mask images.
 
 The requirements.txt contains all required Python packages. 
 
